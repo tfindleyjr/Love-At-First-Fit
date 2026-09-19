@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Love at First Fit",
+    "slug": "love-at-first-fit",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "laff",
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.laff.app" },
+    "android": { "package": "com.laff.app" }
+  }
+}
